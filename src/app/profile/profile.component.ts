@@ -35,3 +35,12 @@ export class ProfileComponent implements OnInit {
     });
 
 
+  }
+
+  findProfile() {
+    this.service.updateProfile(this.username);
+    this.service.getProfileInfo().subscribe((profile: { login: string; company: string; location: string; avatar_url: string; public_repos: string; public_gist: string; followers: string; following: string; email: string; bio: string; created_at: string; }) => {
+      console.log(profile);
+      this.profile = profile;
+    });
+    
