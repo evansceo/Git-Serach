@@ -32,3 +32,19 @@
     </div>
 </nav>
 
+<!--/.nav-collapse -->
+
+
+<!-- CONTENT SECTION -->
+
+<!-- Profile And Location On Panel -->
+<div *ngIf="profile">
+  <div style="margin-top: 10%;" class="panel panel-default">
+
+    <div class="panel-heading">
+        <h1>{{profile.login}}</h1>
+      <span *ngIf="">Works at {{profile.company}}</span> {{profile.location}}
+    </div>
+<!-- Collapse Profile And Location On Panel -->
+
+
