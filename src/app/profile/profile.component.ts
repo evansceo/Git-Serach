@@ -12,4 +12,8 @@ export class ProfileComponent implements OnInit {
     location: '',
     avatar_url: '',
     public_repos: '',
+    public_gist: '',
+    followers: '',
+    following: '',
+    email: '',
 
