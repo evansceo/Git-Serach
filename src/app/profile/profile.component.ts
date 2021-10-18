@@ -16,4 +16,9 @@ export class ProfileComponent implements OnInit {
     followers: '',
     following: '',
     email: '',
+    bio: '',
+    created_at: ''};
+  repos!: any[];
+  username!: string;
+  any: Object | undefined;
 
