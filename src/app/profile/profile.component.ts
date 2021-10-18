@@ -22,3 +22,11 @@ export class ProfileComponent implements OnInit {
   username!: string;
   any: Object | undefined;
 
+
+
+  constructor(private service: ProfileService) {
+    this.service.getProfileInfo().subscribe((profile: { login: string; company: string; location: string; avatar_url: string; public_repos: string; public_gist: string; followers: string; following: string; email: string; bio: string; created_at: string; }) => {
+      console.log(profile);
+      this.profile = profile;
+    });
+
