@@ -72,3 +72,24 @@
                 <li class="list-group-item"><strong>Bio:</strong> {{profile.bio}}</li>
                 <li class="list-group-item"><strong>Member Since:</strong> {{profile.created_at}}</li>
             </ul>
+
+          <!-- Collapse Content With User-info -->
+
+          </div>
+        </div>
+
+<!--Collapse following, public gist, Followers, Following -->
+
+
+<!-- REPOSITORIES -->
+          <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Repositories</h3>
+            </div>
+        <div class="panel-body">
+            <div class="row">
+                    <!-- Looop To Display Repos -->
+                    <div class="col-md-12">
+                        <div *ngFor="let repo of repos">
+                            <div class="row">
+                                
