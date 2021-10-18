@@ -6,4 +6,10 @@ import { ProfileService } from '../services/profile.service';
   templateUrl: './profile.component.html',
   styleUrls: ['./profile.component.scss']
 })
+export class ProfileComponent implements OnInit {
+  profile = { login: '',
+    company: '',
+    location: '',
+    avatar_url: '',
+    public_repos: '',
 
