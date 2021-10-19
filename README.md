@@ -3,7 +3,7 @@
 ## Author
 [Evans-Oduor-Onyiego](https://https://github.com/evansceo)
 
-## This app is called [Github Search:mag:](https://github.com/evansceo/Git-Serach).
+### This app is called [Git-Search](https://github.com/evansceo/Git-Serach).
 
 ### **This project was done using ANGULAR-Cli Version 7.** 
 
@@ -12,13 +12,13 @@
 #### ***Checkout the link for the older Version in Angular-JS*** :point_down:
 
 
-#### [Checkout Deployed Site At :mag:](evansceo.github.io/git-serach/)
+#### [Checkout Deployed Site At](evansceo.github.io/git-serach/)
 
 
 
 # DESCRIPTION
 
-This is a **Github Search :mag:** application that searches for user and displays their profile info using the ***Github API.***
+This is a **Git Search :mag:** application that searches for user and displays their profile info using the ***Github API.***
 
 This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. 
 
