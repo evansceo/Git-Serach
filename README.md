@@ -1,5 +1,7 @@
 # GitSearch
 
+## Author
+[Evans-Oduor-Onyiego](https://https://github.com/evansceo)
 
 ## This app is called [Github Search:mag:](https://github.com/evansceo/Git-Serach).
 
