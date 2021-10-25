@@ -1,6 +1,8 @@
-# Github-API-Search--Update-Angular-cli-7
+# Git-Search
+## Author
+Evans Oduor Onyiego
 
-## This app is called [Github Search:mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/).
+## This app is called [Github Search:mag:](https://evansceo.github.io/Github-API-Search--Update-Angular-cli-7/).
 
 ### **This project was done using ANGULAR-Cli Version 7.** 
 
@@ -8,7 +10,7 @@
 
 #### ***Checkout the link for the older Version in Angular-JS*** :point_down:
 
--> ```https://github.com/zecollokaris/Github-API-Search-AngularJS```
+-> ```https://github.com/evansceo/Github-API-Search-AngularJS```
 
 #### [Checkout Deployed Site At :mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
 
@@ -41,7 +43,7 @@ This include the following mentioned however below however if you dont have the 
 
 You can check out the link below for installation instructions!
 
-Link~  ```https://github.com/zecollokaris/Installation```
+Link~  ```https://github.com/evansceo/Installation```
 
 
 - Node.js
@@ -66,7 +68,7 @@ If you dont have this requirements you could use the link above to help with the
 
 3. To get to use **GIT-SEARCH** fist you need to get to the Github-API-Search--Update-Angular-cli-7 repository. 
 
-Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update-Angular-cli-7```
+Link:-> ```https://github.com/evansceo/Github-API-Search--Update-Angular-cli-7```
 
 4. From there you can access Git-search.
 
@@ -113,7 +115,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 App was deployed to [Github Pages](https://pages.github.com/) using Angular Cli, by publishing the **dist/** folder.
 
-Link to Deployed [Github Search:mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
+Link to Deployed [Github Search:mag:](https://evansceo.github.io/Github-API-Search--Update-Angular-cli-7/)
 
 
 ```
@@ -123,15 +125,15 @@ https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/
 ## Support and Contact
 ---
 
--Mobile number: (+254) 798731203
+-Mobile number: (+254) 712234913
 
--Email Address: collo.kariss@gmail.com
+-Email Address: evansville09@gmail.com
 
--github-username: zecollokaris
+-github-username: evansceo
 
 ## License
 ---
 
 The app is licensed by MIT.
 
-MIT (c) 2018
+MIT (c) 2021
