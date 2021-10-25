@@ -2,7 +2,7 @@
 ## Author
 Evans Oduor Onyiego
 
-## This app is called [Github Search:mag:](https://evansceo.github.io/Github-API-Search--Update-Angular-cli-7/).
+## This app is called [Github Search:mag:](https://evansceo.github.io/Git-Serach/).
 
 ### **This project was done using ANGULAR-Cli Version 7.** 
 
@@ -12,12 +12,12 @@ Evans Oduor Onyiego
 
 -> ```https://https://github.com/evansceo/Git-Serach```
 
-#### [Checkout Deployed Site At :mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
+#### [Checkout Deployed Site At :mag:](https://evansceo.github.io/Git-Serach/)
 
 
 # DISPLAY
 
-![](Spec.md/GithubSearch.png)
+![](Spec.md/Screenshot)
 
 # DESCRIPTION
 
