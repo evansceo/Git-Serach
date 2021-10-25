@@ -10,7 +10,7 @@ Evans Oduor Onyiego
 
 #### ***Checkout the link for the older Version in Angular-JS*** :point_down:
 
--> ```https://github.com/evansceo/Github-API-Search-AngularJS```
+-> ```https://https://github.com/evansceo/Git-Serach```
 
 #### [Checkout Deployed Site At :mag:](https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/)
 
@@ -68,7 +68,7 @@ If you dont have this requirements you could use the link above to help with the
 
 3. To get to use **GIT-SEARCH** fist you need to get to the Github-API-Search--Update-Angular-cli-7 repository. 
 
-Link:-> ```https://github.com/evansceo/Github-API-Search--Update-Angular-cli-7```
+Link:-> ```https://https://github.com/evansceo/Git-Serach```
 
 4. From there you can access Git-search.
 
@@ -115,11 +115,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 App was deployed to [Github Pages](https://pages.github.com/) using Angular Cli, by publishing the **dist/** folder.
 
-Link to Deployed [Github Search:mag:](https://evansceo.github.io/Github-API-Search--Update-Angular-cli-7/)
+Link to Deployed [Github Search:mag:](https://evansceo.github.io/git-serach
 
 
 ```
-https://zecollokaris.github.io/Github-API-Search--Update-Angular-cli-7/
+https://https://github.com/evansceo/Git-Serach
 ```
 
 ## Support and Contact
