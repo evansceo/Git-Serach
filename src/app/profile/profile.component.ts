@@ -18,20 +18,18 @@ export class ProfileComponent implements OnInit {
     email: '',
     bio: '',
     created_at: ''};
-  repos!: any[];
-  username!: string;
-  any: Object | undefined;
-
+  repos: any[];
+  username: string;
 
 
   constructor(private service: ProfileService) {
-    this.service.getProfileInfo().subscribe((profile: { login: string; company: string; location: string; avatar_url: string; public_repos: string; public_gist: string; followers: string; following: string; email: string; bio: string; created_at: string; }) => {
+    this.service.getProfileInfo().subscribe(profile => {
       console.log(profile);
       this.profile = profile;
     });
     this.service.getProfileRepos().subscribe(repos => {
       console.log(repos);
-      this.any = repos;
+      this.repos = repos;
     });
 
 
@@ -39,13 +37,13 @@ export class ProfileComponent implements OnInit {
 
   findProfile() {
     this.service.updateProfile(this.username);
-    this.service.getProfileInfo().subscribe((profile: { login: string; company: string; location: string; avatar_url: string; public_repos: string; public_gist: string; followers: string; following: string; email: string; bio: string; created_at: string; }) => {
+    this.service.getProfileInfo().subscribe(profile => {
       console.log(profile);
       this.profile = profile;
     });
     this.service.getProfileRepos().subscribe(repos => {
       console.log(repos);
-      this.any = repos;
+      this.repos = repos;
     });
   }
 
